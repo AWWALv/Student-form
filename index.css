@@ -1,0 +1,11 @@
+
+div{
+    padding-bottom: 20px;
+}
+input{
+    padding: 5px 20px;
+    border: 1px solid black;
+}
+input[type=checkbox]{
+    border: 1px solid black;
+}
